@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/AlessandroChinnici
   gitUsername: AlessandroChinnici
   gitBranch: main
+- name: L3WmAppIntegration
+  gitServerName: AC_IWHI
+  gitUrl: https://github.com/IBM
+  gitUsername: AlessandroChinnici
+  gitBranch: main
